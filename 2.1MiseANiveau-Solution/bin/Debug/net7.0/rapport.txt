@@ -1,0 +1,21 @@
+Délais de livraison :
+- Commande : 1001 livrée en 4 jours
+- Commande : 1002 livrée en 4 jours
+- Commande : 1003 livrée en 4 jours
+- Commande : 1004 livrée en 4 jours
+- Commande : 1005 livrée en 4 jours
+- Commande : 1006 livrée en 4 jours
+- Commande : 1007 livrée en 4 jours
+- Commande : 1008 livrée en 4 jours
+- Commande : 1009 livrée en 4 jours
+- Commande : 1010 livrée en 4 jours
+- Délai de livraison moyen : 4,00 jours
+
+Montants :
+- Montant total : 2 092,13 $
+- Montant moyen : 209,21 $
+
+Statistiques des commandes :
+- Nombre de commandes livrées : 5
+- Nombre de commandes en traitement : 3
+- Nombre de commandes annulées : 2

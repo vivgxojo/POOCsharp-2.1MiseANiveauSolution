@@ -1,0 +1,11 @@
+date_commande,date_livraison,id,client,montant_total,statut
+2025-01-01,2025-01-05,1001,Client_A,150.75,En traitement
+2025-01-02,2025-01-06,1002,Client_B,245.30,Livrée
+2025-01-03,2025-01-07,1003,Client_C,89.99,Annulée
+2025-01-04,2025-01-08,1004,Client_D,320.40,Livrée
+2025-01-05,2025-01-09,1005,Client_E,59.99,En traitement
+2025-01-06,2025-01-10,1006,Client_F,120.00,Livrée
+2025-01-07,2025-01-11,1007,Client_G,200.50,Annulée
+2025-01-08,2025-01-12,1008,Client_H,340.20,En traitement
+2025-01-09,2025-01-13,1009,Client_I,75.00,Livrée
+2025-01-10,2025-01-14,1010,Client_J,490.00,Livrée
