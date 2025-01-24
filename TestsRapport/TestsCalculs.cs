@@ -48,14 +48,14 @@ namespace TestsRapport
         public void TestCalculateTotalAmount()
         {
             double total = Fonctions.CalculerMontantTotal(sampleData);
-            Assert.Equal(486.04, total, 0.01);
+            Assert.Equal(486.04, total);
         }
 
         [Fact]
         public void TestCalculateAverageAmount()
         {
             double average = Fonctions.CalculerMontantMoyen(sampleData);
-            Assert.Equal(162.01, average, 0.01);
+            Assert.Equal(162.01, average, 0.01); //Niveau de précision
         }
 
         [Fact]

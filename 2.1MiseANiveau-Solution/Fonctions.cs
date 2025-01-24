@@ -59,6 +59,10 @@ namespace _2._1MiseANiveau_Solution
                 Array.Resize(ref data, rowCount);
 
             }
+            catch (Exception ex) 
+            {
+                Console.WriteLine(ex.ToString());
+            }
             finally
             {
                 // Nettoyage des ressources

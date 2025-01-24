@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\84613.RWIN\\source\\repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj": {}
+    "C:\\Users\\84613.RWIN\\Source\\Repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\84613.RWIN\\source\\repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj": {
+    "C:\\Users\\84613.RWIN\\Source\\Repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84613.RWIN\\source\\repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj",
+        "projectUniqueName": "C:\\Users\\84613.RWIN\\Source\\Repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj",
         "projectName": "2.1MiseANiveau-Solution",
-        "projectPath": "C:\\Users\\84613.RWIN\\source\\repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj",
+        "projectPath": "C:\\Users\\84613.RWIN\\Source\\Repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\2.1MiseANiveau-Solution.csproj",
         "packagesPath": "C:\\Users\\84613.RWIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\84613.RWIN\\source\\repos\\vivgxojo\\POOCsharp-2.1MiseANiveauSolution\\2.1MiseANiveau-Solution\\obj\\",
         "projectStyle": "PackageReference",
